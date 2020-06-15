@@ -85,7 +85,7 @@ $ npm start
 # running on port 3000
 ```
 
-Acesse a pasta app-mobile e rode os seguintes comandos:
+Acesse a pasta mobile e rode os seguintes comandos:
 
 ```
 # Acesse a pasta do mobile
